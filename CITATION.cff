@@ -1,0 +1,19 @@
+cff-version: 1.0.0
+message: Please cite this software using these metadata.
+title: Docker Knowledge Transfer
+authors:
+    - family-names: Bomtempo Colen
+      given-names: Artur
+keywords:
+    - Docker
+    - Containers
+    - DevOps
+    - Alpine Linux
+    - Node.js
+    - PostgreSQL
+    - Docker Compose
+    - Containerization
+repository-code: https://github.com/ArturColen/docker-knowledge-transfer
+license: MIT
+version: 1.0.0
+date-released: 2025-12-16
