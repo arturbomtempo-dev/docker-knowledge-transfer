@@ -35,7 +35,7 @@
 ---
 
 <div align="center">
-    <p>🇬🇧 <a href="https://github.com/arturbomtempo-dev/docker-knowledge-transfer/blob/main/README.en.md" target="_blank"><strong>English version available here</strong></a></p>
+    <p>🇺🇸 <a href="https://github.com/arturbomtempo-dev/docker-knowledge-transfer/blob/main/README.en.md" target="_blank"><strong>English version available here</strong></a></p>
 </div>
 
 <br>
